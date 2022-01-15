@@ -3,7 +3,7 @@
     <jdk version="2">
       <name value="1.8" />
       <type value="JavaSDK" />
-      <version value="version 1.8.0_292" />
+      <version value="Azul Zulu version 1.8.0_312" />
       <homePath value="/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home" />
       <roots>
         <annotationsPath>
@@ -14,7 +14,6 @@
         <classPath>
           <root type="composite">
             <root url="jar:///Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/charsets.jar!/" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/crs-agent.jar!/" type="simple" />
             <root url="jar:///Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/cldrdata.jar!/" type="simple" />
             <root url="jar:///Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/dnsns.jar!/" type="simple" />
             <root url="jar:///Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/jaccess.jar!/" type="simple" />
