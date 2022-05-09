@@ -6,6 +6,8 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
+  <action id="ChangesView.ToggleCommitUi" />
+  <action id="CheckinProject" />
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
   <action id="EditorCodeBlockEnd" />
@@ -22,13 +24,20 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
+  <action id="Git.Commit.Stage" />
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="GuiDesigner.Duplicate" />
   <action id="Images.Editor.ToggleGrid" />
+  <action id="RunAnything">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="ShowProjectStructureSettings" />
+  <action id="Terminal.ClearBuffer">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
   <action id="XDebugger.CopyWatch" />
 </keymap>
