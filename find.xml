@@ -3,17 +3,18 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>!*Test.java</mask>
     <mask>!*Test.java,!*pb*ts,!*js,!*grpc*py</mask>
     <mask>!*pb*ts,!*js,!*grpc*py</mask>
     <mask>!*pb*ts,!*js,!*grpc*py,*java</mask>
     <mask>!*pb*ts,!*js,!*grpc*py,!*txt,*java</mask>
     <mask>*.py</mask>
+    <mask>*.java</mask>
   </component>
 </application>
