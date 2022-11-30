@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -15,8 +16,8 @@
     <mask>!*pb*ts,!*js,!*grpc*py</mask>
     <mask>!*pb*ts,!*js,!*grpc*py,*java</mask>
     <mask>!*pb*ts,!*js,!*grpc*py,!*txt,*java</mask>
-    <mask>*.java</mask>
     <mask>*.py</mask>
     <mask>!*pb*ts,!*js,!*grpc*py,!*txt,!*log</mask>
+    <mask>*.java</mask>
   </component>
 </application>
